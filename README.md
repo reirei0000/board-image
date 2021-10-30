@@ -1,2 +1,2 @@
-# create-board-image
-Create board image
+# board-image
+board image helper
